@@ -1,1 +1,15 @@
+Reconnaissance Notes
+
+The target application was a deliberately vulnerable
+web application provided by PortSwigger Web Security Academy.
+
+Manual reconnaissance was performed by observing the web page
+and identifying visible input fields.
+
+The following components were observed:
+- Search/Input field
+- User input is reflected in the response
+- No authentication was required
+
+No automated scanning tools were used during reconnaissance.
 
