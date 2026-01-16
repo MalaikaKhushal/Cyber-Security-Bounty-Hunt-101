@@ -17,6 +17,13 @@ performed in a safe lab environment.
 - Browser-based testing
 - Payload injection
 
+  ## Project Structure
+
+- recon/        : Reconnaissance notes
+- report/       : Final vulnerability report
+- screenshots/  : Proof of concept screenshots
+
+
 ## Disclaimer
 This project was conducted for educational purposes only
 on intentionally vulnerable lab environments.
